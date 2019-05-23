@@ -29114,7 +29114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35f8540a13ceed247a1c9e15216c0007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 0
+  x: 192.76
   speed: 50
 --- !u!23 &1040363669
 MeshRenderer:
@@ -30225,7 +30225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35f8540a13ceed247a1c9e15216c0007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 0
+  x: 192.76
   speed: 50
 --- !u!23 &1076408286
 MeshRenderer:
@@ -49972,7 +49972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35f8540a13ceed247a1c9e15216c0007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 0
+  x: 998.6
   speed: 50
 --- !u!23 &1761346708
 MeshRenderer:
@@ -59025,7 +59025,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35f8540a13ceed247a1c9e15216c0007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 0
+  x: 998.6
   speed: 50
 --- !u!23 &2096338698
 MeshRenderer:
@@ -61569,7 +61569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 35f8540a13ceed247a1c9e15216c0007, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  x: 0
+  x: 998.6
   speed: 50
 --- !u!65 &7909368466856328228
 BoxCollider:
