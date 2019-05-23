@@ -5,6 +5,7 @@ using UnityEngine;
 public class Car : MonoBehaviour
 {
     private Vector3 initial_pos;
+    public float x;
     public float speed;
     // Start is called before the first frame update
     void Start()
@@ -22,7 +23,7 @@ public class Car : MonoBehaviour
     {
         if(other.CompareTag("car trigger"))
         {
-            transform.position = initial_pos;
+            transform.position = new Vector3(x,initial_pos.y,initial_pos.z);
         }
     }
 }
