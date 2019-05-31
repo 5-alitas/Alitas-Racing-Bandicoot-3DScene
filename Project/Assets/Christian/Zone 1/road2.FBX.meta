@@ -1460,6 +1460,7 @@ ModelImporter:
     401452: Tube001
     401454: Tube002
     2100000: No Name
+    2100002: 02 - Default
     2300000: lineas004
     2300002: lineas005
     2300004: lineas006
@@ -3657,7 +3658,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 50
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
