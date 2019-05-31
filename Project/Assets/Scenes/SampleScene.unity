@@ -17960,6 +17960,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (9)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -18007,10 +18011,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (9)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -63148,6 +63148,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -63195,10 +63199,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -89213,6 +89213,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -89260,10 +89264,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -97140,7 +97140,6 @@ GameObject:
   - component: {fileID: 1179363718}
   - component: {fileID: 1179363717}
   - component: {fileID: 1179363716}
-  - component: {fileID: 1179363715}
   - component: {fileID: 1179363719}
   m_Layer: 0
   m_Name: Sphere (2)
@@ -97149,19 +97148,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!135 &1179363715
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1179363714}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1179363716
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -102076,6 +102062,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (6)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -102123,10 +102113,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -109437,6 +109423,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (8)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -109484,10 +109474,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (8)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -120407,6 +120393,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -120454,10 +120444,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -127972,7 +127958,6 @@ GameObject:
   - component: {fileID: 1840214265}
   - component: {fileID: 1840214264}
   - component: {fileID: 1840214263}
-  - component: {fileID: 1840214262}
   - component: {fileID: 1840214266}
   m_Layer: 0
   m_Name: Sphere
@@ -127981,19 +127966,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!135 &1840214262
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1840214261}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &1840214263
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -128316,6 +128288,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -128363,10 +128339,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
@@ -136937,7 +136909,6 @@ GameObject:
   - component: {fileID: 2025748407}
   - component: {fileID: 2025748406}
   - component: {fileID: 2025748405}
-  - component: {fileID: 2025748404}
   - component: {fileID: 2025748408}
   m_Layer: 0
   m_Name: Sphere (1)
@@ -136946,19 +136917,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!135 &2025748404
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2025748403}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &2025748405
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -137557,6 +137515,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6351329529546010401}
     m_Modifications:
+    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
+      propertyPath: m_Name
+      value: divider_asset (7)
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1113.6614
@@ -137604,10 +137566,6 @@ PrefabInstance:
     - target: {fileID: 400000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
       propertyPath: m_LocalScale.z
       value: 54.19323
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
-      propertyPath: m_Name
-      value: divider_asset (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b70552247f81bde40a8d6e041b9f7ad4, type: 3}
